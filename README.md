@@ -4,8 +4,8 @@
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+🤙;Nice+to+see+you+here!&size=35&color=000000&vCenter=true">
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lakshmikanth_Mhetre-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-saraf/)](https://www.linkedin.com/in/jatin-saraf/)
-[![Gmail Badge](https://img.shields.io/badge/-lkgr892@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkgr892@gmail.com)](mailto:lkgr892.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jatin_Saraf-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-saraf/)](https://www.linkedin.com/in/jatin-saraf/)
+[![Gmail Badge](https://img.shields.io/badge/-JatinSaraf001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:JatinSaraf001@gmail.com)](mailto:JatinSaraf001@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/lk_gr8-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lk_gr8/)](https://www.instagram.com/lk_gr8/)
 <!-- # Hi there! -->
 
@@ -13,7 +13,7 @@
 Hi there!👋 I am Jatin, ambitious to become a **Data Analyst**.
 
 Know me:
-- 🔭 
+- 🔭 Curious mindset
 - 🗣️ An extrovert. 
 - 🤔 I think of solutions which are logical,and optimal.Sometimes **Jugad** works as well.
 - 😄 Ping me up when you feel down because *I'll be there for you(When the rain starts to pour)*.
@@ -37,17 +37,4 @@ Talking formally about myself.
 ![react](https://user-images.githubusercontent.com/50818578/130458728-5baec2ec-40f8-49ae-82ba-b3b78c3a1516.png) &nbsp;
 ![vscode](https://user-images.githubusercontent.com/50818578/130458744-bdef2828-7866-4d70-8467-1a6ff3726bb5.png)
 
-<!--
-**lkthegr8/lkthegr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
