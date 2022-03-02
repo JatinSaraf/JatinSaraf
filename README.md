@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jatin_Saraf-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-saraf/)](https://www.linkedin.com/in/jatin-saraf/)
 [![Gmail Badge](https://img.shields.io/badge/-JatinSaraf001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:JatinSaraf001@gmail.com)](mailto:JatinSaraf001@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/lk_gr8-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lk_gr8/)](https://www.instagram.com/lk_gr8/)
+[![Instagram Badge](https://img.shields.io/badge/guruu_009-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lk_gr8/)](https://www.instagram.com/guruu_009/)
 <!-- # Hi there! -->
 
 
