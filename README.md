@@ -7,7 +7,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="![Visitor Count](https://profile-counter.glitch.me/JatinSaraf/count.svg)" />
+ ![Visitor Count](https://profile-counter.glitch.me/JatinSaraf/count.svg)
 </p>
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Jatin_Saraf-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-saraf/)](https://www.linkedin.com/in/jatin-saraf/) -->
