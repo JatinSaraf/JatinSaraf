@@ -7,9 +7,8 @@
 
 <p align="center"> 
   Visitor count<br>
- 
+ <img src="https://profile-counter.glitch.me/JatinSaraf/count.svg" />
 </p>
-![Visitor Count](https://profile-counter.glitch.me/JatinSaraf/count.svg)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-Jatin_Saraf-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-saraf/)](https://www.linkedin.com/in/jatin-saraf/) -->
 [![Gmail Badge](https://img.shields.io/badge/-JatinSaraf001@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:JatinSaraf001@gmail.com)](mailto:JatinSaraf001@gmail.com)
