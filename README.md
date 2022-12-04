@@ -1,7 +1,7 @@
 ![image for good git profile](https://user-images.githubusercontent.com/50818578/130353887-25a0e484-04a9-42b5-84b1-fc246465851b.jpg)
 
 <h1 align="left">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+🤙;Nice+to+see+you+here!&size=35&color=ffffff&vCenter=true">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+🤙;Nice+to+see+you+here!&size=35&color=777777&vCenter=true">
 </h1>
 
 
